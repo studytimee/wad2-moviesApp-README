@@ -6,12 +6,19 @@ __Name:__ [your name]
 
 [A bullet-point list of the features developed for the React SPA app (new/modified ones only for the Movies app),]
 
-+ Private Route
-+ Filter: Search/Sort ![][filter]
-+ SignUp/Login/Logout
-+ Remove Card
-+ Add to WatchList 
-+ Button (Material UI) for similar movies
++ Add Card to WatchList 
++ Remove Card from watchList
++ Show Avatar on Card for favorite/watchList
++ Support Storybook for each component.
++ User Authorization (External Auth via Security Web Token)
++ Private Routes
++ Web Form (SignUp)
++ Extensive data hyperlinking including 3 parameterized URLs.
++ Server State Cache ((useQuery)
++ Dynamic and interactive UI, Material UI Button for similar movies
++ Styled Components 3rd Party components.
++ Celebrity search by name
++ Sorting popular celebrity
 
 
 ## Feature Design.
