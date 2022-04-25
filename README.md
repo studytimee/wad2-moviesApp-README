@@ -10,11 +10,13 @@ __Name:__ [your name]
 + Remove Card from watchList
 + Show Avatar on Card for favorite/watchList
 + Support Storybook for each component.
++ Upcoming, Top-rated, similar movies, Celebrity, Celebrity Details.
++ Similar Movies Button in the movies detail page. Click and view full details.
 + User Authorization (External Auth via Security Web Token)
-+ Private Routes
++ Private Routes: 2 Private routing
++ Routes : 4 static routes and 3 parameterised routes
 + Web Form (SignUp)
-+ Extensive data hyperlinking including 3 parameterized URLs.
-+ Server State Cache ((useQuery)
++ Server State Cache (useQuery)
 + Dynamic and interactive UI, Material UI Button for similar movies
 + Styled Components 3rd Party components.
 + Celebrity search by name
