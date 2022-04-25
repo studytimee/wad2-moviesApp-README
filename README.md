@@ -4,11 +4,9 @@ __Name:__ [your name]
 
 ### Overrview.
 
-[A bullet-point list of the features developed for the React SPA app (new/modified ones only for the Movies app),]
-
 + Add Card to WatchList 
 + Remove Card from watchList
-+ Show Avatar on Card for favorite/watchList
++ When the watch list is selected, the avatar of the watch list appears on the card.
 + Support Storybook for each component.
 + Upcoming, Top-rated, similar movies, Celebrity, Celebrity Details.
 + Similar Movies Button in the movies detail page. Click and view full details.
@@ -17,8 +15,7 @@ __Name:__ [your name]
 + Routes : 4 static routes and 3 parameterised routes
 + Web Form (SignUp)
 + Server State Cache (useQuery)
-+ Dynamic and interactive UI, Material UI Button for similar movies
-+ Styled Components 3rd Party components.
++ Dynamic and interactive UI, Material UI, Styled Components 3rd Party components.
 + Celebrity search by name
 + Sorting popular celebrity
 
