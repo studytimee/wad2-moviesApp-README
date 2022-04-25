@@ -7,7 +7,7 @@ __Name:__ [your name]
 [A bullet-point list of the features developed for the React SPA app (new/modified ones only for the Movies app),]
 
 + Filter. 
-![][https://i.imgur.com/aJaI9SK.png]
+![][image1]
 
 + Feature Y. 
 + etc.
