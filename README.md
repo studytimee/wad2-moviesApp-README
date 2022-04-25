@@ -6,11 +6,13 @@ __Name:__ [your name]
 
 [A bullet-point list of the features developed for the React SPA app (new/modified ones only for the Movies app),]
 
-+ Filter. 
-![][image1]
++ Private Route
++ Filter: Search/Sort ![][filter]
++ SignUp/Login/Logout
++ Remove Card
++ Add to WatchList 
++ Button (Material UI) for similar movies
 
-+ Feature Y. 
-+ etc.
 
 ## Feature Design.
 
