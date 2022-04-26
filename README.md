@@ -22,9 +22,6 @@ __Name:__ [your name]
 
 ## Feature Design.
 
-[For each feature listed in the overview, show a screenshot(s) of its UI layout (use appropriate magnification for accessibility). Include a caption and specify its URL path.]
-
-e.g. 
 __The Upcoming Movies feature.__
 ![][upcoming]
 > Lists movies from the Upcoming movies endpoint of TMDB
@@ -33,27 +30,45 @@ __URL:__ /movies/upcoming
 
 __The Now Playing Movies feature.__
 ![][now-playing]
-> Lists movies from the now playing movies endpoint of TMDB
-__URL:__ /movies/nowplaying
+> Lists movies from the Now-playing movies endpoint of TMDB
+__URL:__ /movies/now-playing
 
 
-
-__Movie Reviews.__
-
-__Movies Reviews feature.__
-
-![][image2]
-
-> Lists all the reviews for a particular movie (text extract only).
-
-__URL:__/movies/:id
+__The Top-rated Movies feature.__
+![][top-rated]
+> Lists movies from the Top-rated movies endpoint of TMDB
+__URL:__ /movies/top-rated
 
 
-![][image3]
+__The Celebrities feature.__
+![][celebrities]
+> Lists of Celebrities endpoint of TMDB
+__URL:__ /movies/actors/home
 
-> Shows the full text of a review for a movie. 
 
-__URL:__/reviews/:id
+__The Celebrity Detail feature.__
+![][celebrity-details]
+> Show the detail of selected celebrity endpoint of TMDB
+__URL:__ /movies/actors/{actor-id}
+
+
+__Showing the similar button feature.__
+![][show-similar-button]
+> Similar button shows in the movies details page
+
+
+__Show the list of similar movies feature.__
+![][list-of-similar-movies]
+> List of similar movies match with the selected movie_id
+__URL:__ /movies/{selected-movie_id}
+
+
+__Show the full detail of similar movies feature.__
+![][full-detail-of-similar-movies]
+> Show the full details of movie id form the matched list.
+__URL:__ /movies/{new-matched-movie_id}
+
+
 
 ## Storybook.
 
@@ -93,7 +108,7 @@ e.g.
 
 [upcoming]:   https://i.imgur.com/wdrCaBM.png
 [now-playing]: https://i.imgur.com/BPVrKpK.png
-[toprated]:   https://i.imgur.com/HBXIaKP.png
+[top-rated]:   https://i.imgur.com/HBXIaKP.png
 [celebrities]:   https://i.imgur.com/G9sYjxh.png
 [celebrity-details]:   https://i.imgur.com/rDdEJyH.png
 [show-similar-button]:   https://i.imgur.com/dH6QVU6.png
