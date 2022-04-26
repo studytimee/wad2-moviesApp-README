@@ -10,12 +10,12 @@ __Name:__ [your name]
 + Support Storybook for each component.
 + Upcoming, Top-rated, similar movies, Celebrity, Celebrity Details.
 + Similar Movies Button in the movies detail page. Click and view full details.
-+ User Authorization (External Auth via Security Web Token)
++ User Authentication (External Auth via Security Web Token)
 + Private Routes: 2 Private routing
 + Routes : 4 static routes and 3 parameterised routes
 + Web Form (SignUp)
 + Server State Cache (useQuery)
-+ Dynamic and interactive UI, Material UI, Styled Components 3rd Party components.
++ Dynamic and interactive UI, Material UI, Styled 3rd Party components.
 + Celebrity search by name
 + Sorting popular celebrity
 
@@ -63,6 +63,7 @@ e.g.
 
 [Show a screenshot(s) from the react-query Dev tools that illustrate all the entity types cached by your app (Use appropriate magnification for accessibility). State the type of data relating to each cache entry.]
 
++ [Demo Video](https://youtu.be/M7ARV0u_f_k).
 e.g.
 
 ![][image4]
