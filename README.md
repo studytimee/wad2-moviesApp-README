@@ -28,11 +28,12 @@ e.g.
 __The Upcoming Movies feature.__
 
 
-![][image1]
+![][upcoming]
 
 > Lists movies from the Upcoming movies endpoint of TMDB
-
 __URL:__ /movies/upcoming
+
+
 __Movie Reviews.__
 
 __Movies Reviews feature.__
@@ -64,7 +65,9 @@ e.g.
 [Show a screenshot(s) from the react-query Dev tools that illustrate all the entity types cached by your app (Use appropriate magnification for accessibility). State the type of data relating to each cache entry.]
 
 + [Demo Video](https://youtu.be/M7ARV0u_f_k).
-e.g.
+
+
+
 
 ![][image4]
 
