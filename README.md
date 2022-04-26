@@ -133,6 +133,6 @@ __The Movie Details Page - Similar Movies Button Storybook.__
 [CelebrityPage-celebrityCard-default]:             https://i.imgur.com/H2R9Pvv.png
 [CelebrityPage-celebrityCard-default-exception]:   https://i.imgur.com/qeSPwDW.png
 [CelebrityDetailPage-celebrityDetails]:            https://i.imgur.com/xCjCTRH.png
-[CelebrityDetailPage-celebrityDetails]:            https://i.imgur.com/rb0Kz9i.png
+[CelebrityDetailPage-celebrityList]:               https://i.imgur.com/rb0Kz9i.png
 [CelebrityDetailPage-celebrityDetailsHeader]:      https://i.imgur.com/RDVj1My.png
 [movie-detail-similar-button]:                     https://i.imgur.com/N8uMeRt.png
