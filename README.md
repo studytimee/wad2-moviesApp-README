@@ -72,23 +72,34 @@ __URL:__ /movies/{new-matched-movie_id}
 
 ## Storybook.
 
-[Include a screenshot(s) from the Storybook UI and highlight the stories for new components developed.]
-
-e.g.
-
-![][image5]
+__The Celebrity Page - Celebrity Card - Default Storybook.__
+![][CelebrityPage-celebrityCard-default]
 
 
-### Server state caching.
-
-[Show a screenshot(s) from the react-query Dev tools that illustrate all the entity types cached by your app (Use appropriate magnification for accessibility). State the type of data relating to each cache entry.]
-
-+ [Demo Video](https://youtu.be/M7ARV0u_f_k).
+__The Celebrity Page - Celebrity Card - Exception Storybook.__
+![][CelebrityPage-celebrityCard-default-exception]
 
 
+__The Celebrity Detail Page - Celebrity Detail Storybook.__
+![][CelebrityDetailPage-celebrityDetails]
 
 
-![][image4]
+__The Celebrity Detail Page - Celebrity List Storybook.__
+![][CelebrityDetailPage-celebrityList]
+
+
+__The Celebrity Detail Page - Celebrity Header Storybook.__
+![][CelebrityDetailPage-celebrityDetailsHeader]
+
+
+__The Movie Details Page - Similar Movies Button Storybook.__
+![][movie-detail-similar-button]
+
+
+### Server State Caching.
+
++ [Watch Demo Video: Server State Caching:](https://youtu.be/M7ARV0u_f_k).
+
 
 + [discover] - List of movies from the Discovery endpoint.
 + [movie,[id,:id]] - All properties for a particular movie.
@@ -106,6 +117,7 @@ e.g.
 
 [Highlight any other aspects of your app's design or implementation that is non-standard and worthy of mention.]
 
+-- TMDB End-points
 [upcoming]:   https://i.imgur.com/wdrCaBM.png
 [now-playing]: https://i.imgur.com/BPVrKpK.png
 [top-rated]:   https://i.imgur.com/HBXIaKP.png
@@ -116,4 +128,10 @@ e.g.
 [full-detail-of-similar-movies]:   https://i.imgur.com/V3DegSO.png
 
 
-  
+-- Storybook
+[CelebrityPage-celebrityCard-default]:             https://i.imgur.com/H2R9Pvv.png
+[CelebrityPage-celebrityCard-default-exception]:   https://i.imgur.com/qeSPwDW.png
+[CelebrityDetailPage-celebrityDetails]:            https://i.imgur.com/xCjCTRH.png
+[CelebrityDetailPage-celebrityDetails]:            https://i.imgur.com/rb0Kz9i.png
+[CelebrityDetailPage-celebrityDetailsHeader]:      https://i.imgur.com/RDVj1My.png
+[movie-detail-similar-button]:                     https://i.imgur.com/N8uMeRt.png
