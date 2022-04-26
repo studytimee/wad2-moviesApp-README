@@ -26,9 +26,8 @@ __Name:__ [your name]
 
 e.g. 
 __The Upcoming Movies feature.__
+![][upcoming]
 
-
-![][image6]
 
 > Lists movies from the Upcoming movies endpoint of TMDB
 __URL:__ /movies/upcoming
@@ -92,3 +91,4 @@ e.g.
 [image3]: ./images/image3.png
 [image4]: ./images/image4.png
 [image5]: ./images/image5.png
+[upcoming]: https://i.imgur.com/SDw8985.png
