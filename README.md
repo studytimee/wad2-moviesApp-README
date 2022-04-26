@@ -23,7 +23,9 @@ __Name:__ [your name]
 ## Feature Design.
 
 __The Upcoming Movies feature.__
+
 ![][up-coming]
+
 > Lists movies from the Upcoming movies endpoint of TMDB
 __URL:__ /movies/upcoming
 
