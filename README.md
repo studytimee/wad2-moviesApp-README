@@ -27,10 +27,15 @@ __Name:__ [your name]
 e.g. 
 __The Upcoming Movies feature.__
 ![][upcoming]
-
-
 > Lists movies from the Upcoming movies endpoint of TMDB
 __URL:__ /movies/upcoming
+
+
+__The Now Playing Movies feature.__
+![][now-playing]
+> Lists movies from the now playing movies endpoint of TMDB
+__URL:__ /movies/nowplaying
+
 
 
 __Movie Reviews.__
@@ -86,9 +91,14 @@ e.g.
 
 [Highlight any other aspects of your app's design or implementation that is non-standard and worthy of mention.]
 
-[image1]: ./images/image1.png
-[image2]: ./images/image2.png
-[image3]: ./images/image3.png
-[image4]: ./images/image4.png
-[image5]: ./images/image5.png
-[upcoming]: https://i.imgur.com/SDw8985.png
+[upcoming]:   https://i.imgur.com/wdrCaBM.png
+[now-playing]: https://i.imgur.com/BPVrKpK.png
+[toprated]:   https://i.imgur.com/HBXIaKP.png
+[celebrities]:   https://i.imgur.com/G9sYjxh.png
+[celebrity-details]:   https://i.imgur.com/rDdEJyH.png
+[show-similar-button]:   https://i.imgur.com/dH6QVU6.png
+[list-of-similar-movies]:   https://i.imgur.com/hHOjnFw.png
+[full-detail-of-similar-movies]:   https://i.imgur.com/V3DegSO.png
+
+
+  
