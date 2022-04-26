@@ -24,7 +24,7 @@ __Name:__ [your name]
 
 __The Upcoming Movies feature.__
 
-![][up-coming]
+![][image1]
 
 > Lists movies from the Upcoming movies endpoint of TMDB
 __URL:__ /movies/upcoming
@@ -120,7 +120,7 @@ __The Movie Details Page - Similar Movies Button Storybook.__
 [Highlight any other aspects of your app's design or implementation that is non-standard and worthy of mention.]
 
 -- TMDB End-points
-[up-coming]:   ./images/up-coming.png
+[image1]:   ./images/image1.png
 [now-playing]: ./images/now-playing.png
 [top-rated]:   ./images/top-rated.png
 [celebrities]:   ./images/celebrities.png
