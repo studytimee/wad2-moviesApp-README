@@ -23,7 +23,7 @@ __Name:__ [your name]
 ## Feature Design.
 
 __The Upcoming Movies feature.__
-![][upcoming]
+![][up-coming]
 > Lists movies from the Upcoming movies endpoint of TMDB
 __URL:__ /movies/upcoming
 
@@ -118,14 +118,14 @@ __The Movie Details Page - Similar Movies Button Storybook.__
 [Highlight any other aspects of your app's design or implementation that is non-standard and worthy of mention.]
 
 -- TMDB End-points
-[upcoming]:   https://i.imgur.com/wdrCaBM.png
-[now-playing]: https://i.imgur.com/BPVrKpK.png
-[top-rated]:   https://i.imgur.com/HBXIaKP.png
-[celebrities]:   https://i.imgur.com/G9sYjxh.png
-[celebrity-details]:   https://i.imgur.com/rDdEJyH.png
-[show-similar-button]:   https://i.imgur.com/dH6QVU6.png
-[list-of-similar-movies]:   https://i.imgur.com/hHOjnFw.png
-[full-detail-of-similar-movies]:   https://i.imgur.com/V3DegSO.png
+[up-coming]:   ./images/up-coming.png
+[now-playing]: ./images/now-playing.png
+[top-rated]:   ./images/top-rated.png
+[celebrities]:   ./images/celebrities.png
+[celebrity-details]:   ./images/celebrity-details.png
+[show-similar-button]:   ./images/show-similar-button.png
+[list-of-similar-movies]:   ./images/list-of-similar-movies.png
+[full-detail-of-similar-movies]:   ./images/full-detail-of-similar-movies.png
 
 
 -- Storybook
