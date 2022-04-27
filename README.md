@@ -106,8 +106,15 @@ __The Movie Details Page - Similar Movies Button Storybook.__
 ## Authentication.
 
 __Authentication - API Integration.__
-![][signup-page]
+![][API-integration]
+>The client App provides a mechanism for working with an server API's.
 
+>The Client app makes an API request to localhost:3000, the Webpack development server. The development server >then proxies that request to the API server.
+
+#### Proxy Server
+>To have the React development server proxy our API requests to our Express API server, we need to add the >following to the package.json file for the React Application
+
+>This proxy server forward any request that not present in the client resource to the Express API listening on >port 8080.
 
 __Authentication - Private Route.__
 ![][require-authentication]
