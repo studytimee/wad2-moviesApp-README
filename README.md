@@ -105,7 +105,9 @@ __The Movie Details Page - Similar Movies Button Storybook.__
 
 ## Authentication.
 
-[Briefly explain the method used for supporting authentication and include any relevant screenshots (e.g. Dev tools Network tab for session keys). State which parts of the app's functionality require authentication, e.g. the Favourites feature.]
+__Authentication - API Integration.__
+![][signup-page]
+
 
 __Authentication - Private Route.__
 ![][require-authentication]
@@ -236,7 +238,7 @@ This lab introduces the create-react-app (CRA) tool. While Storybook is a tool f
 [movie-detail-similar-button]:                     https://i.imgur.com/N8uMeRt.png
 
 
-
+[API-integration]:          ./images/API_Integration-5.png
 [require-authentication]:   https://i.imgur.com/xtd9IQg.png
 [signup-page]:              https://i.imgur.com/Hqq6NRr.png
 [hashed-before-saved]:      ./images/encrypted-password.png
