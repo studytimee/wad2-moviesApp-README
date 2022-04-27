@@ -249,6 +249,7 @@ This lab introduces the create-react-app (CRA) tool. While Storybook is a tool f
 
 
 [API-integration]:          ./images/API_Integration-5.png
+[private-route]:            ./images/private-route.png
 [require-authentication]:   https://i.imgur.com/xtd9IQg.png
 [signup-page]:              https://i.imgur.com/Hqq6NRr.png
 [hashed-before-saved]:      ./images/encrypted-password.png
