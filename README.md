@@ -117,7 +117,9 @@ __Authentication - API Integration.__
 >This proxy server forward any request that not present in the client resource to the Express API listening on port 8080.
 
 __Authentication - Private Route.__
+>Code
 ![][private-route]
+>UI
 ![][require-authentication]
 > In the moivesApp both pages (favourite & WatchList) are protected.
 
